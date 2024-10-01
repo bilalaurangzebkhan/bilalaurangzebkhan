@@ -7,14 +7,14 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalaurangzebkhan&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
 </a> </p>
 
-- 📫 How to reach me <b>yaseenejazahmed@gmail.com</b>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bilal-aurangzeb-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-aurangzeb-khan" height="30" width="40" /></a>
-<a href="mailto:bilal7han@gmail.com" target="blank">
+
+<a href="https://mail.google.com/mail/?view=cm&to=bilal7han@gmail.com" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
 </a>
+
 
 </p>
 
