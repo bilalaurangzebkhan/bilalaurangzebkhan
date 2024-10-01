@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A passionate Software Engineer and problem solver</h3>
-<div align="center">![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)</div>
-  
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
+
+![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-aurangzeb-khan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/bilal-aurangzeb-khan) 
 
@@ -11,11 +15,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=bilalaurangzebkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bilalaurangzebkhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilalaurangzebkhan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
