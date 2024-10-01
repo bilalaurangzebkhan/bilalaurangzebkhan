@@ -2,7 +2,10 @@
 <h3 align="center">A passionate Software Engineer and problem solver</h3>
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
 
-![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)
+<p align="center">
+<a href="https://github.com/Yaseen-Ejaz">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalaurangzebkhan&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
+</a> </p>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?
 
