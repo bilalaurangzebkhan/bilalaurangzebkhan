@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
 
 <p align="center">
-<a href="https://github.com/Yaseen-Ejaz">
+<a href="https://github.com/bilalaurangzebkhan">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bilalaurangzebkhan&hide_progress=true&bg_color=151515&title_color=fff&text_color=9f9f9f&layout=compact&langs_count=8&card_width=320" alt="munimdev's GitHub most-used languages" />
 </a> </p>
 
@@ -11,8 +11,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/bilal-aurangzeb-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bilal-aurangzeb-khan" height="30" width="40" /></a>
 
-<a href="https://mail.google.com/mail/?view=cm&to=bilal7han@gmail.com" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg" alt="Email" height="30" width="40" />
+<a href="https://mail.google.com/mail/?view=cm&to=bilal7han@gmail.com" target="_blank">
+  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Flogowik.com%2Fgmail-icon-logo-vector-71172.html&psig=AOvVaw0J7yWyBpzgpqmKWdrUbdH-&ust=1727901122099000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDiz6SD7ogDFQAAAAAdAAAAABAE)" alt="Email" height="30" width="40" />
 </a>
 
 
