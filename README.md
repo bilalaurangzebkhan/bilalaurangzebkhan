@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
 <h3 align="center">A passionate Software Engineer and problem solver</h3>
-<p align="center">
-![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)
-</p>
+<div align="center">![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)</div>
   
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-aurangzeb-khan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/bilal-aurangzeb-khan) 
