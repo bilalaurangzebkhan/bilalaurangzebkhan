@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bilal</h1>
-<h3 align="center">A passionate Software Engineer and problem solver</h3>
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&label=Profile%20views&color=0e75b6&style=flat" alt="yaseen-ejaz" /> </p>
+<h3 align="center">A Passionate Software Engineer & Problem Solver</h3>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&label=Profile%20views&color=0e75b6&style=flat" alt="bilalaurangzebkhan" /> </p>
 
 <p align="center">
 <a href="https://github.com/bilalaurangzebkhan">
