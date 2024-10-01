@@ -1,6 +1,7 @@
-# 💫 About Me:
-🔭 I’m currently working on developing scalable web applications and improving software performance.<br>👯 I’m looking to collaborate on open-source projects and innovative software solutions.<br>🤝 I’m looking for help with mastering cloud computing and microservices architecture.<br>🌱 I’m currently learning advanced algorithms, distributed systems, and DevOps practices.<br>💬 Ask me about software development, best coding practices, or my favorite tech stack.<br>⚡ Fun fact: I love solving puzzles and often participate in coding challenges for fun!
+<h1 align="center">Hi 👋, I'm Bilal</h1>
+<h3 align="center">A passionate Software Engineer and problem solver</h3>
 
+![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilal-aurangzeb-khan) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/bilal-aurangzeb-khan) 
@@ -16,6 +17,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![](https://visitcount.itsvg.in/api?id=bilalaurangzebkhan&icon=0&color=0)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
